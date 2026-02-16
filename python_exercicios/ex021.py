@@ -1,0 +1,1 @@
+#Infelizmente em uma das atualizações do Python a biblioteca do Pygame parou de funcionar em relação a funcionalidade do mp3.
