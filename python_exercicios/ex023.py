@@ -1,6 +1,9 @@
-nome = '1834'
-print(nome)
-print('Unidade:',nome[3])
-print('Dezena:',nome[2])
-print('Centena:',nome[1])
-print('Milhar:',nome[0])
+num = 18
+u = num // 1 % 10
+d = num // 10 % 10
+c = num // 100 % 10
+m = num // 1000 % 10
+print('Unidade:',u)
+print('Dezena:',d)
+print('Centena:',c)
+print('Milhar:',m)
