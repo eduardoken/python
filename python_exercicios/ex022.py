@@ -1,4 +1,10 @@
 nome = 'Elias Lopes Mendes Hogashi'
 print(nome.upper())
 print(nome.lower())
-
+print(len(nome))
+nome2 = nome.replace(' ', '')
+print(nome2)
+print(len(nome2))
+nome = nome.split()
+print(nome)
+print(len(nome[0]))
