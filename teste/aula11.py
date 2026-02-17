@@ -1,0 +1,7 @@
+print('\033[1;31;43m Ola Mundo\033[m')
+print('\033[4;30;45m Ola Mundo\033[m')
+print('\033[7;33;47m Ola Mundo\033[m')
+print('\033[0;32;46m Ola Mundo\033[m')
+print('\033[7;30m Ola Mundo\033[m')
+print('\033[7;33;44m Ola Mundo\033[m')
+print('\033[0;33;44m Ola Mundo\033[m')
